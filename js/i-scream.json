@@ -36,6 +36,32 @@
         "candy sprinkles"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "Butter pecan",
+      "calories" : 525,
+      "type" :"ice-cream",
+      "ingredients" :[
+        "vanilla extract",
+        "pecans",
+        "unsalted butter",
+        "heavy cream",
+        "brown sugar"
+      ],
+      "image" : "butter-pecan.svg"
+    },
+    {
+      "name" : "Banana",
+      "calories" : 480,
+      "type" :"ice-cream",
+      "ingredients" :[
+        "vanilla extract",
+        "mashed ripe bananas",
+        "Dash salt",
+        "heavy cream",
+        "sugar"
+      ],
+      "image" : "banana.svg"
     }
   ]
 }
