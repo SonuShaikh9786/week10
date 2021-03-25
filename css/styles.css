@@ -26,7 +26,7 @@ section {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 5rem;
-	margin-right: 5px;
+	margin-right: 5rem;
 }
 section article {
 	border: 1px solid black;
