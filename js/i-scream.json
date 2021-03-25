@@ -48,7 +48,7 @@
         "heavy cream",
         "brown sugar"
       ],
-      "image" : "butter-pecan.svg"
+      "image" : "ice-cream-xtra2.svg"
     },
     {
       "name" : "Banana",
@@ -61,7 +61,7 @@
         "heavy cream",
         "sugar"
       ],
-      "image" : "banana.svg"
+      "image" : "ice-cream-xtra1.svg"
     }
   ]
 }
